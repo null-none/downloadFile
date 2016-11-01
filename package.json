@@ -1,0 +1,23 @@
+{
+  "name": "download-file",
+  "version": "0.0.1",
+  "description": "Download file",
+  "main": "downloadFile.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "download file",
+    "file",
+    "download"
+  ],
+  "author": "Dmitry Kalinin",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.0.2"
+  },
+  "dependencies": {
+    "jsdom": "^9.8.3"
+  }
+}
