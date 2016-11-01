@@ -1,6 +1,6 @@
 {
-  "name": "download-file",
-  "version": "0.0.1",
+  "name": "download-url-file",
+  "version": "0.0.2",
   "description": "Download file",
   "main": "downloadFile.js",
   "scripts": {
